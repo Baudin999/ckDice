@@ -5,6 +5,11 @@ This is a little dice utility library with some convenience methods wrapped arou
 ## version
 v1.0.0
 
+## installation
+npm install ck-dice
+
+The ```index.js``` file can be found in the ```src``` directory. This project is written in CoffeeScript.
+
 ## walkthrough
 
 When you require the library you get an instance of the DiceRoller class:
