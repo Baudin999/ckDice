@@ -1,6 +1,6 @@
 {
   "name": "ckDice",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A little dice helper library",
   "main": "src/index.js",
   "scripts": {
