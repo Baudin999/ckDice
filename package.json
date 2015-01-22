@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Baudin999/ckDice/issues"
   },
-  "homepage": "https://github.com/Baudin999/ckDice"
+  "homepage": "https://github.com/Baudin999/ckDice",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
 }
