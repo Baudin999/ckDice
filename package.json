@@ -20,6 +20,7 @@
     "url": "https://github.com/Baudin999/ckDice/issues"
   },
   "homepage": "https://github.com/Baudin999/ckDice",
+  "readmeFile": "readme.md",
   "devDependencies": {
     "jasmine-node": "^1.14.5"
   }
